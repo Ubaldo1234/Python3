@@ -1,0 +1,11 @@
+texto = input("Ingresa un tipo de dato String:")
+num1 = int(input("Ingresa un tipo de dato int:"))
+num2 = float(input("Ingresa un tipo de dato float:"))
+dato = bool(input("Ingresa un tipo de dato booleano:"))
+complejo = complex(input("Ingresa un tipo de dato complejo:"))
+
+print("Tu String es:",texto)
+print("Tu int es:",num1)
+print("Tu float es:",num2)
+print("Tu bool es:",dato)
+print("Tu complejo es:",complejo)
